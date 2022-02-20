@@ -1,0 +1,35 @@
+\" replace XXX and YYY with the name of your recipe
+.TH recipe-manuals 7 "XXX" "" "YYY"
+
+.SH NAME
+\" replace with the name of your recipe
+Recipe Template
+
+.SH INGREDIENTS
+.IP \[bu]
+Ingredient 1 (metric, imperial)
+.IP \[bu]
+Ingredient 2 (metric, imperial)
+.IP \[bu]
+Ingredient 3 (metric, imperial)
+
+.SH INSTRUCTIONS
+.nr step 1 1
+.IP \n[step] 3
+First, combine ingredient 1 with ingredient 2.
+.IP \n+[step]
+In a preheated oven set to (metric, imperial), cook for n minutes.
+.IP \n+[step]
+Garnish with ingredient 3 and serve.
+
+.SH COMMENT
+.IP \[bu]
+Estimated Prep Time: 30m
+.IP \[bu]
+Estimated Cook Time: 45m
+.IP \[bu]
+Difficulty: (easy, moderate, difficult)
+
+.SH ADDITIONAL NOTES
+Additional tips or notes can be included here.
+
