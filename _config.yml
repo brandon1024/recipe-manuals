@@ -1,5 +1,3 @@
-source: build
-
 title: "Recipe Manuals"
 description: "Open recipes, for nerdy chefs. Follow from the terminal or browser."
 remote_theme: just-the-docs/just-the-docs
