@@ -10,9 +10,5 @@ aux_links:
 
 footer_content: "Copyright &copy; 2022 Brandon Richardson. Distributed under an <a href=\"https://github.com/brandon1024/recipe-manuals/blob/main/LICENSE\">MIT license.</a>"
 
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/brandon1024/recipe-manuals"
-gh_edit_branch: "main"
-gh_edit_view_mode: "tree"
+gh_edit_link: false
 
