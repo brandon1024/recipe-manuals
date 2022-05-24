@@ -8,67 +8,55 @@ Honey Garlic Tofu
 
   - Extra Firm Tofu (454g, 1 lb.)
 
-  - Asparagus (1, bunch)
+  - Vegetable Oil (15mL, 1 tablespoon)
 
-  - Sweet Potato (1, Large)
+  - Soy Sauce (45mL, 3 tablespoons)
 
-  - Olive Oil (15mL, 1 Tablespoon)
+  - Sesame Oil (15mL, 1 tablespoon)
 
-  - Vegetable Oil (15mL, 1 Tablespoon)
+  - Rice Vinegar (10mL, 2 teaspoons)
 
-  - Butter (15mL, 1 Tablespoon)
+  - Red Pepper Flakes (0.625mL, 1/8 teaspoon)
 
-  - Salt (1, pinch)
+  - Honey (62.5mL, 1/4 cup)
 
-  - Soy Sauce (45mL, 3 Tablespoons)
+  - Onion Powder (2.5mL, 1/2 teaspoon)
 
-  - Sesame Oil (15mL, 1 Tablespoon)
+  - Garlic (3 cloves)
 
-  - Rice Vinegar (10mL, 2 Teaspoons)
-
-  - Red Pepper Flakes (0.625mL, 1/8 Teaspoon)
-
-  - Honey (62.5mL, 1/4 Cup)
-
-  - Onion Powder (2.5mL, 1/2 Teaspoon)
-
-  - Garlic (3 Cloves)
-
-  - Cornstarch (2.5mL, 1/2 Teaspoon)
+  - Cornstarch (2.5mL, 1/2 teaspoon)
 
   - Ginger (1/2-inch knob)
 
+  - Rice (500mL, 2 cups, cooked basmati)
+
 # INSTRUCTIONS
 
-  - On a sheet of aluminum foil, place **sweet potato** and coat in a
-    light drizzle of **olive oil** (15mL, 1 Tablespoon), **salt** (1
-    pinch) and **butter** (15mL, 1 Tablespoon). Place in oven preheated
-    to 425 degrees. Set a timer for 45 minutes.
-
-  - In a small dish, combine **soy sauce** (45mL, 3 Tablespoons),
-    **sesame** oil (15mL, 1 Tablespoon), **rice vinegar** (10mL, 2
-    Teaspoons), **red** pepper flakes (0.625mL, 1/8 Teaspoon), **honey**
-    (62.5mL, 1/4 Cup), **onion powder** (2.5mL, 1/2 Teaspoon),
-    **garlic** (3 cloves, minced), **cornstarch** (2.5mL, 1/2 Teaspoon)
+  - In a small dish, combine **soy sauce** (45mL, 3 tablespoons),
+    **sesame** oil (15mL, 1 tablespoon), **rice vinegar** (10mL, 2
+    teaspoons), **red** pepper flakes (0.625mL, 1/8 teaspoon), **honey**
+    (62.5mL, 1/4 cup), **onion powder** (2.5mL, 1/2 teaspoon),
+    **garlic** (3 cloves, minced), **cornstarch** (2.5mL, 1/2 teaspoon)
     and **ginger** (1/2-inch knob, minced). Set aside.
 
   - In a cast iron pan over high heat, add **vegetable oil** (15mL, 1
-    Tablespoon). Add **tofu** (454g, 1 lb.) and sear on all sides until
+    tablespoon). Add **tofu** (454g, 1 lb.) and sear on all sides until
     beginning to brown.
-
-  - In a shallow dish, place **asparagus** (1, bunch) and coat in a
-    light drizzle of **olive oil** (15mL, 1 Tablespoon) and **salt** (1
-    pinch). Place in oven.
 
   - Add soy sauce / honey mixture, reduce heat slightly, stir to coat
     the tofu and cook until sauce has thickened.
 
-  - Serve tofu with asparagus and baked sweet potato.
+  - Serve tofu over a bed of rice or with veggies.
 
 # COMMENT
 
-  - Estimated Prep Time: 20m prep
+  - Estimated Prep Time: 10m
 
-  - Estimated Cook Time: 1h
+  - Estimated Cook Time: 20m
 
   - Difficulty: easy
+
+# ADDITIONAL NOTES
+
+This dish is great served over a bed of rice with broccoli, or with
+roasted asparagus and sweet potato. Serve with your side of choice.

@@ -10,38 +10,38 @@ Homestyle Chili
 
   - Lean Ground Beef (454g, 1 lb.)
 
-  - Low Sodium Beef Broth (125mL, 1/2 Cup)
+  - Low Sodium Beef Broth (125mL, 1/2 cup)
 
-  - Onion (1, Large Red or Yellow)
+  - Onion (1, large red or yellow, diced)
 
-  - Celery (2 Stalks)
+  - Celery (2 stalks, sliced)
 
-  - Garlic (4 Cloves)
+  - Garlic (4 cloves, minced)
 
-  - Bell Pepper (1, Green or Red)
+  - Bell Pepper (1, green or red, diced)
 
-  - Jalapeno (1)
+  - Jalapeno (1, sliced)
 
   - Diced Tomatoes (540mL, 18oz)
 
   - Crushed Tomatoes (414mL, 14 oz)
 
-  - Chili Powder (15mL, 1 Tablespoon)
+  - Chili Powder (15mL, 1 tablespoon)
 
-  - Cocoa Powder (10mL, 2 Teaspoons)
+  - Cocoa Powder (10mL, 2 teaspoons)
 
-  - Ground Cumin (10mL, 2 Teaspoons)
+  - Ground Cumin (10mL, 2 teaspoons)
 
-  - Chili Pepper Flakes (1.25mL, 1/4 Teaspoon)
+  - Chili Pepper Flakes (1.25mL, 1/4 teaspoon)
 
-  - Cinnamon (1.25mL, 1/4 Teaspoon)
+  - Cinnamon (1.25mL, 1/4 teaspoon)
 
 # INSTRUCTIONS
 
   - Sort and rinse **kidney beans** (454g, 1 lb.). Soak beans overnight
     in cold water.
 
-  - Drain beans. In a large pot, add **water** (1000mL, 4 Cups) and
+  - Drain beans. In a large pot, add **water** (1000mL, 4 cups) and
     beans. Heat to a light boil and simmer for 50 minutes or until
     nearly tender. Drain and set aside.
 
@@ -49,16 +49,16 @@ Homestyle Chili
     browned. Set aside.
 
   - In the same large pot over medium-high heat, add **onions** (1,
-    Large Red or Yellow, diced), **celery** (2 Stalks, sliced),
-    **garlic** (4 Cloves, minced), **bell pepper** (1, Green or Red,
-    diced), **Jalapeno** (1, sliced). Cook for 15 minutes or until onion
+    large red or yellow, diced), **celery** (2 stalks, sliced),
+    **garlic** (4 cloves, minced), **bell pepper** (1, green or red,
+    diced), **jalapeno** (1, sliced). Cook for 15 minutes or until onion
     is translucent.
 
   - Add **diced tomatoes** (540mL, 18oz), **beef broth** (125mL, 1/2
-    Cup), **chili powder** (15mL, 1 Tablespoon), **cocoa powder** (10mL,
-    2 Teaspoons), **ground cumin** (10mL, 2 Teaspoons), **chili pepper
-    flakes** (1.25mL, 1/4 Teaspoon), **cinnamon** (1.25mL, 1/4
-    Teaspoon). Cook for 5 minutes.
+    cup), **chili powder** (15mL, 1 tablespoon), **cocoa powder** (10mL,
+    2 teaspoons), **ground cumin** (10mL, 2 teaspoons), **chili pepper
+    flakes** (1.25mL, 1/4 teaspoon), **cinnamon** (1.25mL, 1/4
+    teaspoon). Cook for 5 minutes.
 
   - Stir in kidney beans, ground beef and **crushed tomatoes** (414mL,
     14oz). Cover and simmer on low heat for 1 hour.
