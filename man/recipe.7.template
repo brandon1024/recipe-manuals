@@ -16,11 +16,11 @@ Ingredient 3 (metric, imperial)
 .SH INSTRUCTIONS
 .nr step 1 1
 .IP \n[step] 3
-First, combine ingredient 1 with ingredient 2.
+First, combine \fBingredient 1\fR with \fBingredient 2\fR.
 .IP \n+[step]
-In a preheated oven set to (metric, imperial), cook for n minutes.
+In a preheated oven set to (metric / imperial), cook for n minutes.
 .IP \n+[step]
-Garnish with ingredient 3 and serve.
+Garnish with \fBingredient 3\fR and serve.
 
 .SH COMMENT
 .IP \[bu]
