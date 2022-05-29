@@ -24,9 +24,9 @@ Honey Garlic Tofu
 
   - Garlic (3 cloves)
 
-  - Cornstarch (2.5mL, 1/2 teaspoon)
+  - Cornstarch (5mL, 1 teaspoon)
 
-  - Ginger (1/2-inch knob)
+  - Ginger (1/2-inch knob, grated)
 
   - Rice (500mL, 2 cups, cooked basmati)
 
@@ -36,8 +36,8 @@ Honey Garlic Tofu
     **sesame** oil (15mL, 1 tablespoon), **rice vinegar** (10mL, 2
     teaspoons), **red** pepper flakes (0.625mL, 1/8 teaspoon), **honey**
     (62.5mL, 1/4 cup), **onion powder** (2.5mL, 1/2 teaspoon),
-    **garlic** (3 cloves, minced), **cornstarch** (2.5mL, 1/2 teaspoon)
-    and **ginger** (1/2-inch knob, minced). Set aside.
+    **garlic** (3 cloves, minced), **cornstarch** (5mL, 1 teaspoon) and
+    **ginger** (1/2-inch knob, grated). Set aside.
 
   - In a cast iron pan over high heat, add **vegetable oil** (15mL, 1
     tablespoon). Add **tofu** (454g, 1 lb.) and sear on all sides until
