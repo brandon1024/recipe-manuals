@@ -32,6 +32,8 @@ Maple Glazed Tofu
 
   - Rice Vinegar (15mL, 1 tablespoon)
 
+  - Sesame Oil (15mL, 1 tablespoon)
+
   - Rice (250mL, 1 cups, cooked basmati)
 
 # INSTRUCTIONS
@@ -41,7 +43,8 @@ Maple Glazed Tofu
     (30ml, 2 tablespoons), **red pepper flakes** (0.625ml, 1/8
     teaspoon), **gochujang chili paste** (15ml, 1 tablespoon), **light
     soy sauce** (15ml, 1 tablespoon), **dark soy** sauce (10ml, 2
-    teaspoons), **rice vinegar** (15ml, 1 tablespoon). Set aside.
+    teaspoons), **rice vinegar** (15ml, 1 tablespoon), and sesame oil
+    (15ml, 1 tablespoon). Set aside.
 
   - In a cast iron pan over high heat, add **vegetable oil** (30mL, 2
     tablespoons). Add **tofu** (454g, 1 lb., cubed) and sear on all
