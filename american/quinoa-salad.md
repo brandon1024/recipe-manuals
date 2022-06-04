@@ -61,3 +61,5 @@ Quinoa Salad
 
 The taste of the olive oil can transform the overall taste of the final
 product. Use a high quality olive oil if possible.
+
+Feta cheese is a good addition.
