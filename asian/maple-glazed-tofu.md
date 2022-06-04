@@ -32,7 +32,7 @@ Maple Glazed Tofu
 
   - Rice Vinegar (15mL, 1 tablespoon)
 
-  - Rice (500mL, 2 cups, cooked basmati)
+  - Rice (250mL, 1 cups, cooked basmati)
 
 # INSTRUCTIONS
 
@@ -55,7 +55,7 @@ Maple Glazed Tofu
     mixture, reduce heat slightly, stir to coat the tofu and cook until
     sauce has thickened.
 
-  - Serve tofu over a bed of **rice** (500ml, 2 cups, cooked basmati).
+  - Serve tofu over a bed of **rice** (250ml, 1 cups, cooked basmati).
 
 # COMMENT
 
