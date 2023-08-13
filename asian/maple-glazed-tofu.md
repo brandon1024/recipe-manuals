@@ -14,8 +14,6 @@ Maple Glazed Tofu
 
   - Onion (1/2 small red or white, diced)
 
-  - Cabbage (250mL, 1 cup, sliced)
-
   - Cornstarch (10mL, 2 teaspoons)
 
   - Ground Black Pepper (1.25mL, 1/4 teaspoon)
@@ -50,9 +48,7 @@ Maple Glazed Tofu
     tablespoons). Add **tofu** (454g, 1 lb., cubed) and sear on all
     sides until beginning to brown.
 
-  - Add **cabbage** (250ml, 1 cup, sliced) and **garlic** (5 cloves,
-    sliced). Cook for 3-4 minutes or until cabbage begins to soften a
-    little.
+  - Add **garlic** (5 cloves, sliced). Cook for 1-2 minutes.
 
   - Add **onion** (1/2 small red or white, diced) and soy sauce / maple
     mixture, reduce heat slightly, stir to coat the tofu and cook until
@@ -72,5 +68,8 @@ Maple Glazed Tofu
 
 If desired, you can add 2 stalks of green onion, thinly sliced, near the
 end when the sauce has thickened. Save a little for garnish as well.
+
+This dish is great served over a bed of rice with broccoli, or with
+roasted asparagus and sweet potato. Serve with your side of choice.
 
 Optionally garnish with sesame seeds before serving.

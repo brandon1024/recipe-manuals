@@ -26,7 +26,7 @@ Quinoa Salad
 
   - Extra Virgin Olive Oil (45mL, 3 tablespoons)
 
-  - Honey (30mL, 2 tablespoons)
+  - Honey (10mL, 2 teaspoons)
 
   - Salt (2.5mL, 1/2 teaspoon)
 
@@ -40,7 +40,7 @@ Quinoa Salad
     (125mL, 1/2 cup, diced), **red onion** (62mL, 1/4 cup, diced),
     **cherry tomatoes**, **lemon juice** (1/2 lemon), **white wine
     vinegar** (45mL, 3 tablespoons), **olive oil** (45mL, 3
-    tablespoons), and **honey** (30mL, 2 tablespoons). Mix well.
+    tablespoons), and **honey** (10mL, 2 teaspoons). Mix well.
 
   - Once the quinoa, lentils and mung beans have chilled, add them to
     the large bowl of vegetables. Mix well.

@@ -77,3 +77,6 @@ Tofu General Tao
 # ADDITIONAL NOTES
 
 If desired, garnish with scallions and sesame seeds.
+
+Optionally add broccoli, bok choy or onion to the sauce pot when
+thickening the sauce.
