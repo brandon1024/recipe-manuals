@@ -10,11 +10,11 @@ Maple Glazed Tofu
 
   - Vegetable Oil (30mL, 2 tablespoons)
 
-  - Garlic (5 cloves, sliced)
+  - Garlic (4 cloves, sliced)
 
-  - Onion (1/2 small red or white, diced)
+  - Onion (1/2 small red or white, large dice)
 
-  - Cornstarch (10mL, 2 teaspoons)
+  - Cornstarch (2.5mL, 1/2 teaspoons)
 
   - Ground Black Pepper (1.25mL, 1/4 teaspoon)
 
@@ -36,7 +36,7 @@ Maple Glazed Tofu
 
 # INSTRUCTIONS
 
-  - In a small dish, combine **cornstarch** (10ml, 2 teaspoons),
+  - In a small dish, combine **cornstarch** (2.5ml, 1/2 teaspoons),
     **ground black** pepper (1.25ml, 1/4 teaspoon), **maple syrup**
     (30ml, 2 tablespoons), **red pepper flakes** (0.625ml, 1/8
     teaspoon), **gochujang chili paste** (15ml, 1 tablespoon), **light
@@ -48,11 +48,11 @@ Maple Glazed Tofu
     tablespoons). Add **tofu** (454g, 1 lb., cubed) and sear on all
     sides until beginning to brown.
 
-  - Add **garlic** (5 cloves, sliced). Cook for 1-2 minutes.
+  - Add **garlic** (4 cloves, sliced) and **onion** (1/2 small red or
+    white, large dice). Cook 1-2 minutes.
 
-  - Add **onion** (1/2 small red or white, diced) and soy sauce / maple
-    mixture, reduce heat slightly, stir to coat the tofu and cook until
-    sauce has thickened.
+  - Add soy sauce / maple mixture, reduce heat slightly, stir to coat
+    the tofu and cook until sauce has thickened (about 5-7 minutes).
 
   - Serve tofu over a bed of **rice** (250ml, 1 cups, cooked basmati).
 
