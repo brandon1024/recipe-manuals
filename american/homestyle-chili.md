@@ -22,9 +22,9 @@ Homestyle Chili
 
   - Jalapeno (1, sliced)
 
-  - Diced Tomatoes (540mL, 18oz)
+  - Diced Tomatoes (798mL, 27oz)
 
-  - Crushed Tomatoes (414mL, 14 oz)
+  - Tomato Paste (156mL, 5.5oz)
 
   - Chili Powder (15mL, 1 tablespoon)
 
@@ -46,22 +46,21 @@ Homestyle Chili
     nearly tender. Drain and set aside.
 
   - In the same large pot, cook **ground beef** (454g, 1 lb.) until
-    browned. Set aside.
+    starting to brown.
 
-  - In the same large pot over medium-high heat, add **onions** (1,
-    large red or yellow, diced), **celery** (2 stalks, sliced),
-    **garlic** (4 cloves, minced), **bell pepper** (1, green or red,
-    diced), **jalapeno** (1, sliced). Cook for 15 minutes or until onion
-    is translucent.
+  - Add **onions** (1, large red or yellow, diced), **celery** (2
+    stalks, sliced), **garlic** (4 cloves, minced), **bell pepper** (1,
+    green or red, diced), **jalapeno** (1, sliced). Cook for 15 minutes
+    or until onion is translucent.
 
-  - Add **diced tomatoes** (540mL, 18oz), **beef broth** (125mL, 1/2
-    cup), **chili powder** (15mL, 1 tablespoon), **cocoa powder** (10mL,
-    2 teaspoons), **ground cumin** (10mL, 2 teaspoons), **chili pepper
-    flakes** (1.25mL, 1/4 teaspoon), **cinnamon** (1.25mL, 1/4
-    teaspoon). Cook for 5 minutes.
+  - Add **diced tomatoes** (798mL, 27oz), **tomato paste** (156mL,
+    5.5oz), **beef broth** (125mL, 1/2 cup), **chili powder** (15mL, 1
+    tablespoon), **cocoa powder** (10mL, 2 teaspoons), **ground cumin**
+    (10mL, 2 teaspoons), **chili pepper flakes** (1.25mL, 1/4 teaspoon),
+    **cinnamon** (1.25mL, 1/4 teaspoon). Cook for 5 minutes.
 
-  - Stir in kidney beans, ground beef and **crushed tomatoes** (414mL,
-    14oz). Cover and simmer on low heat for 1 hour.
+  - Stir in kidney beans and ground beef. Cover and simmer on low heat
+    for 1 hour.
 
   - Adjust salt levels as needed. Serve.
 
@@ -75,5 +74,4 @@ Homestyle Chili
 
 # ADDITIONAL NOTES
 
-You can substitute ground beef for chorizo, chopped into tiny cubes, for
-great flavour.
+For even more flavour, you can add chorizo (chopped into tiny cubes).
