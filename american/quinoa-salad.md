@@ -36,7 +36,7 @@ Quinoa Salad
     1/2 cup) and **mung beans** (125mL, 1/2 cup). Once cooked, place in
     fridge to chill.
 
-  - In a large bowl, add fred bell pepper (1, diced), **cucumber**
+  - In a large bowl, add **red bell pepper** (1, diced), **cucumber**
     (125mL, 1/2 cup, diced), **red onion** (62mL, 1/4 cup, diced),
     **cherry tomatoes**, **lemon juice** (1/2 lemon), **white wine
     vinegar** (45mL, 3 tablespoons), **olive oil** (45mL, 3

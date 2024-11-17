@@ -45,19 +45,16 @@ Tofu General Tao
     tablespoons), **cornstarch** (5ml, 1 teaspoon), **chinese cooking
     wine** (60ml, 0.25 cup), **chicken broth** (60ml, 1/4 cup), **red
     chili flakes** (2.5ml, 0.5 teaspoons), **hot chili** oil (5ml, 1
-    teaspoon).
+    teaspoon), **ginger** (10ml, 2 teaspoons, grated), **garlic** (2
+    cloves, grated).
 
   - Press **extra firm tofu** (454g, 1 lb.) to remove excess moisture.
     In a separate bowl, break apart the tofu into bite size chunks.
 
-  - Add 2 tablespoons of the sauce mixture to the tofu and mix, then add
-    **cornstarch** (60ml, 0.25 cup). Mix to coat.
+  - Add to the tofu **cornstarch** (60ml, 0.25 cup) and mix to coat.
 
   - Place tofu chunks on an oiled baking sheet and place in the oven
     pre-heated to 350°F / 177°C for 30 minutes.
-
-  - To the sauce mixture, add **ginger** (10ml, 2 teaspoons, grated),
-    **garlic** (2 cloves, grated).
 
   - In a medium sauce pot over medium heat, add sauce mixture and
     continuously stir until thickened. Remove from heat.
