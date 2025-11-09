@@ -6,35 +6,36 @@ Taco Seasoning
 
 # INGREDIENTS
 
-  - Chili Powder (15mL, 1 tablespoon)
+- Chili Powder (15mL, 1 tablespoon)
 
-  - Ground Cumin (7.5mL, 1.5 teaspoons)
+- Ground Cumin (7.5mL, 1.5 teaspoons)
 
-  - Sea Salt (5mL, 1 teaspoon)
+- Sea Salt (5mL, 1 teaspoon)
 
-  - Ground Black Pepper (5mL, 1 teaspoon)
+- Ground Black Pepper (5mL, 1 teaspoon)
 
-  - Ground Paprika (2.5mL, 0.5 teaspoon)
+- Ground Paprika (2.5mL, 0.5 teaspoon)
 
-  - Garlic Powder (1.25mL, 0.25 teaspoon)
+- Garlic Powder (1.25mL, 0.25 teaspoon)
 
-  - Onion Powder (1.25mL, 0.25 teaspoon)
+- Onion Powder (1.25mL, 0.25 teaspoon)
 
-  - Crushed Red Pepper Flakes (1.25mL, 0.25 teaspoon)
+- Crushed Red Pepper Flakes (1.25mL, 0.25 teaspoon)
 
-  - Dried Oregano (1.25mL, 0.25 teaspoon)
+- Dried Oregano (1.25mL, 0.25 teaspoon)
 
 # INSTRUCTIONS
 
-  - Combine all ingredients in a bowl.
+  
+Combine all ingredients in a bowl.
 
 # COMMENT
 
-  - Estimated Prep Time: 10 minutes
+- Estimated Prep Time: 10 minutes
 
-  - Estimated Cook Time: none
+- Estimated Cook Time: none
 
-  - Difficulty: easy
+- Difficulty: easy
 
 # ADDITIONAL NOTES
 
